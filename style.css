@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: #23252C;
+    width: 550px;
+    height: 868px;
+}
+
+img-info{
+    position: absolute;
+    width: 317px;
+    height: 317px;
+    left: 116px;
+    top: 44px;
+
+}
